@@ -30,12 +30,12 @@ Welcome to my GitHub profile! I'm a **Principal ML Engineer** and **Technical Pr
 ### 🌟 [Intelligent Document Processing System](https://github.com/M-Jahangeer-Qureshi/idp-system)
 A production-ready IDP platform:
 - **Features:** Document splitting, data extraction, ERP integration.
-- **Tech Stack:** Streamlit (Frontend), Supabase (Backend), Azure Form Recognizer (AI).
+- **Tech Stack:** Svelte (Frontend), Supabase (Backend), Nvidia Triton Inference Server (AI).
 - **Impact:** Streamlined document processing for enterprise-level clients.
 
 ### 🤖 [AI-Powered Food Ordering Chatbot](https://github.com/M-Jahangeer-Qureshi/food-order-chatbot)
 - **Overview:** Automates food orders for major US chains, handling 1M+ monthly orders.
-- **Tech Stack:** Python, NLP frameworks, FastAPI.
+- **Tech Stack:** Python, NLP frameworks, FastAPI, Twilio, Rasa.
 - **Highlights:** High scalability and robust natural language understanding.
 
 ### 🔍 [Surveillance and Forensic Search System](https://github.com/M-Jahangeer-Qureshi/surveillance-system)
@@ -47,9 +47,9 @@ A production-ready IDP platform:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Jahangeer-Qureshi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJahangeerQureshi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Jahangeer-Qureshi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJahangeerQureshi&layout=compact&theme=radical)
 
 ---
 
