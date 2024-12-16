@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm a **Principal ML Engineer** and **Technical Pr
 ---
 
 ## 👨‍💻 About Me
-- 💻 **Current Role:** Principal ML Engineer at Cplus.
-- 🚀 **Ongoing Projects:** Developing an Intelligent Document Processing (IDP) system leveraging Azure Form Recognizer and Streamlit.
-- 📚 **Publications:** Published research in AI, anomaly detection, and neural systems.
+- 💻 **Current Role:** Principal ML Engineer at EntropyX.
+- 🚀 **Ongoing Projects:** Developing an Intelligent Document Processing (IDP) system.
+- 📚 **Publications:** Published research in AI, anomaly detection, and neural Brain Interface systems.
 - 🌱 **Learning:** Exploring advanced integrations for cloud platforms (AWS, GCP, Azure).
-- 🌍 **Focus Regions:** UAE/MENA markets for AI solutions and technical consultancy.
+- 🌍 **Focus Regions:** ANZ/EMEA markets for AI solutions and technical consultancy.
 
 ---
 
