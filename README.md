@@ -46,9 +46,9 @@ A production-ready IDP platform:
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJahangeerQureshi&show_icons=true&theme=radical)
-
+<!--
+//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJahangeerQureshi&show_icons=true&theme=radical)
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJahangeerQureshi&layout=compact&theme=radical)
 
 ---
