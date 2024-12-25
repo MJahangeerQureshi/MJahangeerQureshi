@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a **Principal ML Engineer** and **Technical Pr
 
 ## 📌 Featured Projects
 
-### 🌟 [Intelligent Document Processing System](https://github.com/M-Jahangeer-Qureshi/idp-system)
+### 🌟 [ArgentPaperless : Intelligent Document Processing System](https://argent-paperless.webflow.io/)
 A production-ready IDP platform:
 - **Features:** Document splitting, data extraction, ERP integration.
 - **Tech Stack:** Svelte (Frontend), Supabase (Backend), Nvidia Triton Inference Server (AI).
